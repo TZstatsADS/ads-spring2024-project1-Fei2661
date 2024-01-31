@@ -1,6 +1,6 @@
 # Applied Data Science @ Columbia
 ## Fall 2023
-## Project 1: What made you happy today?
+## Project 1: Sleep Patterns and Well-being
 
 ![image](figs/title.jpeg)
 
